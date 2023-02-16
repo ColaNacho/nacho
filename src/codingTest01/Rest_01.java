@@ -1,6 +1,6 @@
 package codingTest01;
 
-public class Rest_02 {
+public class Rest_01 {
 	public static void main(String[] args) {
 		class Solution {
 		    public int solution(int n) {
@@ -26,5 +26,3 @@ public class Rest_02 {
 		System.out.println(s.solution(626331));
 	}
 }
-
-
